@@ -1,0 +1,30 @@
+.header h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.banner img {
+    height: 350px;
+    width: 100%;
+}
+
+.recipes {
+    display: flex;
+    justify-content: center;
+}
+
+.recipes ul {
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+    margin-top: 35px;
+}
+
+.recipes li {
+    font-size: 20px;
+}
+
+.recipes a {
+    text-decoration: none;
+}
+
